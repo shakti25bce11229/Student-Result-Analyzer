@@ -1,0 +1,53 @@
+[
+  {
+    "id": "sample01",
+    "name": "Amit",
+    "marks": {
+      "Math": 85,
+      "Physics": 78,
+      "Chemistry": 82
+    },
+    "max_marks": {
+      "Math": 100,
+      "Physics": 100,
+      "Chemistry": 100
+    },
+    "total": 245,
+    "max_total": 300,
+    "percentage": 81.67
+  },
+  {
+    "id": "sample02",
+    "name": "Neha",
+    "marks": {
+      "Math": 92,
+      "Physics": 88,
+      "Chemistry": 95
+    },
+    "max_marks": {
+      "Math": 100,
+      "Physics": 100,
+      "Chemistry": 100
+    },
+    "total": 275,
+    "max_total": 300,
+    "percentage": 91.67
+  },
+  {
+    "id": "sample03",
+    "name": "Ravi",
+    "marks": {
+      "Math": 65,
+      "Physics": 72,
+      "Chemistry": 60
+    },
+    "max_marks": {
+      "Math": 100,
+      "Physics": 100,
+      "Chemistry": 100
+    },
+    "total": 197,
+    "max_total": 300,
+    "percentage": 65.67
+  }
+]
